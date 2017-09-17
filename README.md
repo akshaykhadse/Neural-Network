@@ -1,10 +1,10 @@
 ## Census Income Prediction
 
-The task is to predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" data set.
+The task is to predict whether income exceeds $50K/yr based on census data. Also known as *Census Income* data set.
 
 ### Data set description
 
-The "Census Income” data set is used for this assignment. It has many continuous value and categorical value features, this would help in learning to handle various types of features while building complex machine learning models. Such a mixture would also gives a good opportunity to learn data visualization.
+The *Census Income* data set is used for this assignment. It has many continuous value and categorical value features, this would help in learning to handle various types of features while building complex machine learning models. Such a mixture would also gives a good opportunity to learn data visualization.
 
 Though the data set is publicly available a scrambled verison of the data set is being used.
 
@@ -25,7 +25,7 @@ Below is a brief overview of type and values for various features in the data se
 13. `hours-per-week`: continuous. 
 14. `native-country`: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
 
-Note that in the train and test data,salary >$50K is represented by 1 and <=$50K is represented by 0.
+Note that in the train and test data, `salary` >$50K is represented by 1 and <=$50K is represented by 0.
 
 ### Whats done here?
 
